@@ -53,21 +53,54 @@ Personalized wellness coach integrating **wearable APIs** + RAG orchestration; d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **AI & GenAI**
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-GPT4%20%7C%20Claude%20%7C%20Gemini%201.5-blue?style=for-the-badge)
-![Responsible AI](https://img.shields.io/badge/Langfuse%20%7C%20Evidently%20AI-8E44AD?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-GPT4%20%7C%20Claude%20%7C%20Gemini-blue?style=for-the-badge)
+![Responsible AI](https://img.shields.io/badge/Responsible%20AI-Langfuse%20%7C%20Evidently%20AI-8E44AD?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-FFDD00?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-FF5733?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-336791?style=for-the-badge)
+![MiniLM](https://img.shields.io/badge/MiniLM-HuggingFace-yellow?style=for-the-badge)
 
 ### **Cloud & Infra**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-0096FF?style=for-the-badge)
 
----
+### **Backend & Full-Stack Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### **Data Engineering & Analytics**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-9E2A2B?style=for-the-badge)
+
+### **Version Control & Collaboration**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ## 📄 **Resume**
 📥 **[Download My Resume (PDF)](https://github.com/ghantapavan93/ghantapavan93/raw/main/RES_CV_PavanKalyan_AI%20Engineer.pdf)**
