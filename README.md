@@ -10,6 +10,10 @@
 </p>
 
 ## 🏆 **Why Hire Me?**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🏆%20Why%20Hire%20Me%3F&fontSize=34&fontAlign=50&fontAlignY=65" />
+</p>
+
 ✔ **Hands-On Expertise** in **Agentic AI, RAG pipelines, and cloud-native microservices**  
 ✔ Proven track record of building **production-ready AI systems** across **healthcare, surveillance, education, and enterprise automation**  
 ✔ Skilled at **turning complex AI workflows into scalable, human-friendly systems** (LLMOps, Langfuse, OpenTelemetry)  
@@ -28,7 +32,11 @@ Right now, I’m building **LangGraph-based agents** with **policy guardrails**,
 ---
 
 ## 📌 Impact Snapshot
-<p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=📌%20Impact%20Snapshot&fontSize=34&fontAlign=50&fontAlignY=65" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/200%2B-Students%20mentored%20in%20AI%20%26%20software%20engineering-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/10%2C000%2B-People%20touched%20by%20live%20safety%20%26%20health%20systems-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shipped-Production%20AI%20%7C%20APIs%20%7C%20Dashboards-111827?style=for-the-badge" />
@@ -45,18 +53,28 @@ Right now, I’m building **LangGraph-based agents** with **policy guardrails**,
 ---
 
 ## 🧭 Domains I build in
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🧭%20Domains%20I%20Build%20In&fontSize=34&fontAlign=50&fontAlignY=65" />
+</p>
+
 ❤️ HealthTech & Wellness • 🏥 Healthcare & Clinical AI • 🔐 Cybersecurity & Threat Intelligence • 👥 HR Tech & People Operations (PeopleOps)  
 📚 Education Technology (EdTech) & Learning • ♿ Accessibility & Inclusive Design • ✈️ Travel / Transit / Events • 💳 Finance / Payments / Pricing  
 🗺️ Real Estate & Location Intelligence • 🛠️ Developer Platforms & Internal Tools • 🏗️ Engineering & Infrastructure • 🌍 Open to Applied AI in new domains
 
 ## 🧩 What I build (end-to-end)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🧩%20What%20I%20Build&fontSize=34&fontAlign=50&fontAlignY=65" />
+</p>
+
 🤖 AI Copilots & Assistants • 📚 RAG Systems & Knowledge Engines • 📊 Real-Time Dashboards & Analytics  
 🧩 Internal Tools & Admin Portals • 🧠 Machine Learning (ML) / LLM-powered APIs & services • 🚀 Full-Stack MVPs & Platforms
 
 ---
 
 ## 🚀 **Featured Projects**
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🚀%20Featured%20Projects&fontSize=34&fontAlign=50&fontAlignY=65" />
+</p>
 
 ### **[🔐 Censys Summarization Agent](https://github.com/ghantapavan93/Censys-Summarization-Agent)**  
 AI-native cyber intelligence platform that converts internet-facing host findings into **structured, operator-ready risk summaries** using **deterministic validation + RAG** and production guardrails.  
@@ -146,6 +164,10 @@ Personalized wellness coach integrating **wearable APIs** + RAG orchestration; d
 
 ## ⚡ **GitHub Stats**
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=⚡%20GitHub%20Stats&fontSize=34&fontAlign=50&fontAlignY=65" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghantapavan93&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghantapavan93&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghantapavan93&theme=radical" />
@@ -154,6 +176,10 @@ Personalized wellness coach integrating **wearable APIs** + RAG orchestration; d
 ---
 
 ## 📫 **Let’s Connect**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=📫%20Let%E2%80%99s%20Connect&fontSize=34&fontAlign=50&fontAlignY=65" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankalyan-ghanta-b20115200/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpavankalyan1102@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://pavankalyan-eta.vercel.app/  )
