@@ -19,15 +19,52 @@
 ---
 
 ## 💡 **About Me**
-I’m an **AI & Full-Stack Engineer** passionate about building **autonomous AI agents and cloud-native systems** that **deliver real-world impact**.  
+I’m an **AI Engineer and Full-Stack Product Builder** who turns real-world pain points into **deployed systems** people actually rely on — not prototypes that only look good in slides. I care about one thing: **reducing friction** in moments that matter — helping someone understand their health, keeping crowds safer in real time, or giving teams faster answers they can trust.
 
-Across roles at **Krowd Guide, UNT Research, and Builder.ai**, I’ve designed **Planner → Retriever → Critic orchestration flows**, optimized **RAG pipelines**, and deployed **secure microservices** that **people rely on when it matters most**.  
+I build the full stack end-to-end: **application programming interfaces (APIs)**, internal tools, AI copilots, and cloud-native platforms with **reliability and observability** as first-class features. Across work with **Krowd Guide, University of North Texas (UNT) Research, and Builder.ai**, I’ve shipped **agentic workflows (Planner → Retriever → Critic)**, hardened **Retrieval-Augmented Generation (RAG)** pipelines, and production microservices instrumented with **Langfuse + OpenTelemetry** — so performance, failures, and fallbacks are visible and fixable under real load.
 
-**Right now, I’m actively exploring** **LangGraph**, **policy-aware LLMs**, and **hybrid RAG + graph pipelines** for **cross-domain intelligence systems**.
+Right now, I’m building **LangGraph-based agents** with **policy guardrails**, **tool-use**, and **hybrid RAG + graph retrieval** for cross-domain intelligence — systems that stay grounded, auditable, and operational when the data is messy and the stakes are real.
+
+---
+
+## 📌 Impact Snapshot
+<p>
+  <img src="https://img.shields.io/badge/200%2B-Students%20mentored%20in%20AI%20%26%20software%20engineering-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/10%2C000%2B-People%20touched%20by%20live%20safety%20%26%20health%20systems-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shipped-Production%20AI%20%7C%20APIs%20%7C%20Dashboards-111827?style=for-the-badge" />
+</p>
+
+🚀 **Production systems I’ve shipped:**
+- 🩺 **Medical AI copilot** helping patients decode complex diagnoses into plain language  
+- 👥 **Real-time crowd safety monitoring** for large events with live detection + operator dashboards  
+- 🧑‍💼 **Human Resources (HR) automation tools** saving teams **10+ hours/week** on admin workflows  
+- 🔐 **RAG-powered knowledge engines** for enterprise teams with high-confidence answers + explainability  
+
+> “I build systems that fit how companies already operate—APIs, internal tools, AI copilots, and platforms that handle real edge cases and are actually used by real people. Not just demos that look good in slides.”
+> 
+---
+
+## 🧭 Domains I build in
+❤️ HealthTech & Wellness • 🏥 Healthcare & Clinical AI • 🔐 Cybersecurity & Threat Intelligence • 👥 HR Tech & People Operations (PeopleOps)  
+📚 Education Technology (EdTech) & Learning • ♿ Accessibility & Inclusive Design • ✈️ Travel / Transit / Events • 💳 Finance / Payments / Pricing  
+🗺️ Real Estate & Location Intelligence • 🛠️ Developer Platforms & Internal Tools • 🏗️ Engineering & Infrastructure • 🌍 Open to Applied AI in new domains
+
+## 🧩 What I build (end-to-end)
+🤖 AI Copilots & Assistants • 📚 RAG Systems & Knowledge Engines • 📊 Real-Time Dashboards & Analytics  
+🧩 Internal Tools & Admin Portals • 🧠 Machine Learning (ML) / LLM-powered APIs & services • 🚀 Full-Stack MVPs & Platforms
 
 ---
 
 ## 🚀 **Featured Projects**
+
+
+### **[🔐 Censys Summarization Agent](https://github.com/ghantapavan93/Censys-Summarization-Agent)**  
+AI-native cyber intelligence platform that converts internet-facing host findings into **structured, operator-ready risk summaries** using **deterministic validation + RAG** and production guardrails.  
+_Stack: FastAPI • React + TypeScript • Vector Search • Schema Validation • OpenTelemetry • Langfuse_
+
+### **[🏥 MedSync (Medical Sync)](https://github.com/ghantapavan93/MediSync)**  
+Clinical workflow-oriented platform focused on reducing healthcare friction: **patient records organization, coordination flows, and fast access to critical context** through a clean full-stack experience.  
+_Stack: Full-Stack Web App • Secure API-first design • Workflow-driven UI/UX_
 
 ### **[🧠 AgentForge](https://github.com/ghantapavan93/AgentForge)**  
 Multi-agent GenAI control plane with **Planner → Executor → Critic** orchestration (LangChain + Pinecone).  
@@ -119,4 +156,5 @@ Personalized wellness coach integrating **wearable APIs** + RAG orchestration; d
 ## 📫 **Let’s Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankalyan-ghanta-b20115200/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpavankalyan1102@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghantapavan93)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://pavankalyan-eta.vercel.app/  )
+
