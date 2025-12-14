@@ -230,7 +230,7 @@
 ---
 
 <!-- 📄 RESUME (LEFT; capsule image ONLY) -->
-<p align="left">
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=📄%20Resume&fontSize=34&fontAlign=50&fontAlignY=65"
   />
