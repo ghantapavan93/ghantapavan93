@@ -11,8 +11,8 @@
   <img src="profile.jpg" alt="Pavankalyan Ghanta" width="180" />
 </p>
 
-<!-- Quick Links (LEFT) -->
-<p align="left">
+<!-- Quick Links (center) -->
+<p align="center">
   <a href="https://www.linkedin.com/in/pavankalyan-ghanta-b20115200/">LinkedIn</a> •
   <a href="mailto:gpavankalyan1102@gmail.com">Email</a> •
   <a href="https://pavankalyan-eta.vercel.app/">Portfolio</a> •
@@ -21,8 +21,8 @@
 
 ---
 
-<!-- 🏆 WHY HIRE ME (LEFT; capsule image ONLY) -->
-<p align="left">
+<!-- 🏆 WHY HIRE ME (center; capsule image ONLY) -->
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🏆%20Why%20Hire%20Me%3F&fontSize=34&fontAlign=50&fontAlignY=65"
   />
@@ -38,8 +38,8 @@
 
 ---
 
-<!-- 💡 ABOUT ME (LEFT; capsule image ONLY) -->
-<p align="left">
+<!-- 💡 ABOUT ME (center; capsule image ONLY) -->
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=💡%20About%20Me&fontSize=34&fontAlign=50&fontAlignY=65"
   />
@@ -59,8 +59,8 @@
 
 ---
 
-<!-- 📌 IMPACT SNAPSHOT (LEFT; capsule image ONLY) -->
-<p align="left">
+<!-- 📌 IMPACT SNAPSHOT (center; capsule image ONLY) -->
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=📌%20Impact%20Snapshot&fontSize=34&fontAlign=50&fontAlignY=65"
   />
@@ -87,7 +87,7 @@
 ---
 
 <!-- 🧭 DOMAINS (LEFT; capsule image ONLY) -->
-<p align="left">
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🧭%20Domains%20I%20Build%20In&fontSize=34&fontAlign=50&fontAlignY=65"
   />
@@ -102,7 +102,7 @@
 ---
 
 <!-- 🧩 WHAT I BUILD (LEFT; capsule image ONLY) -->
-<p align="left">
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🧩%20What%20I%20Build&fontSize=34&fontAlign=50&fontAlignY=65"
   />
@@ -116,7 +116,7 @@
 ---
 
 <!-- 🚀 FEATURED PROJECTS (LEFT; capsule image ONLY) -->
-<p align="left">
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🚀%20Featured%20Projects&fontSize=34&fontAlign=50&fontAlignY=65"
   />
@@ -157,7 +157,7 @@
 ---
 
 <!-- 🛠 TECH STACK (LEFT; capsule image ONLY) -->
-<p align="left">
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🛠%20Tech%20Stack&fontSize=34&fontAlign=50&fontAlignY=65"
   />
@@ -258,7 +258,7 @@
 ---
 
 <!-- 📫 LET’S CONNECT (LEFT; capsule image ONLY) -->
-<p align="left">
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=📫%20Let%E2%80%99s%20Connect&fontSize=34&fontAlign=50&fontAlignY=65"
   />
