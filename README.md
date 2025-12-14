@@ -6,7 +6,7 @@
 
 <!-- Profile Photo -->
 <p align="center">
-  <img src="profile.jpg" alt="Pavankalyan Ghanta" width="180" style="border-radius:50%;">
+  <img src="profile.jpg" alt="Pavankalyan Ghanta" width="180" />
 </p>
 
 ## 🏆 **Why Hire Me?**
@@ -14,11 +14,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🏆%20Why%20Hire%20Me%3F&fontSize=34&fontAlign=50&fontAlignY=65" />
 </p>
 
-✔ **Hands-On Expertise** in **Agentic AI, RAG pipelines, and cloud-native microservices**  
+✔ **Hands-On Expertise** in **Agentic AI, Retrieval-Augmented Generation (RAG) pipelines, and cloud-native microservices**  
 ✔ Proven track record of building **production-ready AI systems** across **healthcare, surveillance, education, and enterprise automation**  
-✔ Skilled at **turning complex AI workflows into scalable, human-friendly systems** (LLMOps, Langfuse, OpenTelemetry)  
-✔ Experienced in **real-time inference, cross-domain agent collaboration, and cloud-native deployment** (AWS, GCP, Vertex AI)  
-✔ **Startup agility + enterprise discipline** – from Krowd Guide’s fast-paced MVP cycles to enterprise-grade deployments at UNT Research Labs  
+✔ Skilled at **turning complex AI workflows into scalable, human-friendly systems** (Large Language Model Operations (LLMOps), Langfuse, OpenTelemetry)  
+✔ Experienced in **real-time inference, cross-domain agent collaboration, and cloud-native deployment** (Amazon Web Services (AWS), Google Cloud Platform (GCP), Vertex AI)  
+✔ **Startup agility + enterprise discipline** – from Krowd Guide’s fast-paced MVP cycles to enterprise-grade deployments at University of North Texas (UNT) Research Labs  
 
 ---
 
@@ -49,7 +49,7 @@ Right now, I’m building **LangGraph-based agents** with **policy guardrails**,
 - 🔐 **RAG-powered knowledge engines** for enterprise teams with high-confidence answers + explainability  
 
 > “I build systems that fit how companies already operate—APIs, internal tools, AI copilots, and platforms that handle real edge cases and are actually used by real people. Not just demos that look good in slides.”
-> 
+
 ---
 
 ## 🧭 Domains I build in
@@ -66,8 +66,8 @@ Right now, I’m building **LangGraph-based agents** with **policy guardrails**,
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header&text=🧩%20What%20I%20Build&fontSize=34&fontAlign=50&fontAlignY=65" />
 </p>
 
-🤖 AI Copilots & Assistants • 📚 RAG Systems & Knowledge Engines • 📊 Real-Time Dashboards & Analytics  
-🧩 Internal Tools & Admin Portals • 🧠 Machine Learning (ML) / LLM-powered APIs & services • 🚀 Full-Stack MVPs & Platforms
+🤖 AI Copilots & Assistants • 📚 Retrieval-Augmented Generation (RAG) Systems & Knowledge Engines • 📊 Real-Time Dashboards & Analytics  
+🧩 Internal Tools & Admin Portals • 🧠 Machine Learning (ML) / Large Language Model (LLM)-powered APIs & services • 🚀 Full-Stack MVPs & Platforms
 
 ---
 
@@ -77,28 +77,24 @@ Right now, I’m building **LangGraph-based agents** with **policy guardrails**,
 </p>
 
 ### **[🔐 Censys Summarization Agent](https://github.com/ghantapavan93/Censys-Summarization-Agent)**  
-AI-native cyber intelligence platform that converts internet-facing host findings into **structured, operator-ready risk summaries** using **deterministic validation + RAG** and production guardrails.  
+AI-native cyber intelligence platform that converts internet-facing host findings into **structured, operator-ready risk summaries** using **deterministic validation + Retrieval-Augmented Generation (RAG)** and production guardrails.  
 _Stack: FastAPI • React + TypeScript • Vector Search • Schema Validation • OpenTelemetry • Langfuse_
 
 ### **[🏥 MedSync (Medical Sync)](https://github.com/ghantapavan93/MediSync)**  
 Clinical workflow-oriented platform focused on reducing healthcare friction: **patient records organization, coordination flows, and fast access to critical context** through a clean full-stack experience.  
-_Stack: Full-Stack Web App • Secure API-first design • Workflow-driven UI/UX_
-
-### **[🧠 AgentForge](https://github.com/ghantapavan93/AgentForge)**  
-Multi-agent GenAI control plane with **Planner → Executor → Critic** orchestration (LangChain + Pinecone).  
-_Deployed via FastAPI + Docker + GCP Cloud Run with Langfuse observability._
+_Stack: Full-Stack Web Application • Secure API-first design • Workflow-driven user experience (UX)_
 
 ### **[🏥 Clinical Query Assistant](https://github.com/ghantapavan93/CLINICAL-QUERY-ASSISTANT-USING-RAG-AND-LLMS-)**  
-Domain-specific **RAG system** resolving clinical queries with **FAISS + Pinecone**; GPU-accelerated on AWS EC2 (CUDA).
+Domain-specific **Retrieval-Augmented Generation (RAG)** system resolving clinical queries with **FAISS + Pinecone**; Graphics Processing Unit (GPU)-accelerated on Amazon Web Services (AWS) Elastic Compute Cloud (EC2) using Compute Unified Device Architecture (CUDA).
 
-### **[🎥 EagleEyeAI](https://github.com/ghantapavan93/EagleEyeAI)**  
-Real-time surveillance intelligence detecting human actions & summarizing CCTV footage via **Kafka + GPT-4**.
+### **[🎥 EagleEyeAI](https://github.com/ghantapavan93/Eagle-Eye-AI)**  
+Real-time surveillance intelligence detecting human actions & summarizing closed-circuit television (CCTV) footage via **Apache Kafka + GPT-4**.
 
 ### **[📚 SmartTutor AI](https://github.com/ghantapavan93/Smart-Tutor-AI-Clean)**  
 Multi-agent tutor with **LangChain + ChromaDB + MiniLM**, built for onboarding & training support.
 
 ### **[💪 Project-H Wellness Assistant](https://github.com/ghantapavan93)**  
-Personalized wellness coach integrating **wearable APIs** + RAG orchestration; deployed via **AWS Lambda**.
+Personalized wellness coach integrating wearable application programming interfaces (APIs) + Retrieval-Augmented Generation (RAG) orchestration; deployed via **Amazon Web Services (AWS) Lambda**.
 
 ---
 
@@ -156,7 +152,6 @@ Personalized wellness coach integrating **wearable APIs** + RAG orchestration; d
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
 ## 📄 **Resume**
 📥 **[Download My Resume (PDF)](https://github.com/ghantapavan93/ghantapavan93/raw/main/RES_CV_PavanKalyan_AI%20Engineer.pdf)**
 
@@ -182,5 +177,9 @@ Personalized wellness coach integrating **wearable APIs** + RAG orchestration; d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankalyan-ghanta-b20115200/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpavankalyan1102@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://pavankalyan-eta.vercel.app/  )
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://pavankalyan-eta.vercel.app/)
 
+<!-- 🌊 FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Let%E2%80%99s%20Build%20Something%20That%20Ships%20🚀&fontSize=28&fontAlign=50&fontAlignY=60" />
+</p>
